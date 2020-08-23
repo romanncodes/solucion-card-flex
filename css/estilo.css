@@ -1,0 +1,21 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  margin: 30px;
+}
+
+.caja {
+  border-top: 5px solid rgb(77, 206, 199);
+  padding: 24px;
+  box-shadow: 0px 8px 10px rgb(199, 198, 198);
+  border-radius: 10px;
+}
+
+.caja p {
+  color: grey;
+}
+
+.logo {
+  display: flex;
+  justify-content: flex-end;
+}
